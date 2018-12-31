@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA192
+D 4.5-36V, RRIO, Low Offset Voltage, Low Input Bias Current Opamp
+$ENDCMP
+#
+#End Doc Library

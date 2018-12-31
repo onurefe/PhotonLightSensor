@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MTAPD-06-006
+D 800nm Avalanche Photodiode
+K photodiode
+$ENDCMP
+#
+#End Doc Library
